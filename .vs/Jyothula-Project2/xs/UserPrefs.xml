@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{80AF7F36-9816-2CDC-7C53-060DF5FA17E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/switchMode.cs">
+    <Files>
+      <File FileName="Assets/Scripts/startTeleport.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/switchMode.cs" Line="16" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jyothula-Project2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="module-omicron" expanded="True">
+                <Node name="CAVE2" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Examples" expanded="True" />
+                    <Node name="Navigation" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="DataProcessingScripts" expanded="True" />
+                <Node name="switchMode.cs" selected="True" />
+              </Node>
+              <Node name="Shaders" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2e67825b-a9d3-42fa-8d03-588478ef2c2e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
